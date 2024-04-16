@@ -1,3 +1,7 @@
-[submodule "library"]
-	path = library
-	url = git@maxnilz:maxnilz/library.git
+[submodule "apps/candidate"]
+	path = apps/candidate
+	url = git@maxnilz:maxnilz/candidate.git
+
+[submodule "libs/api"]
+	path = libs/api
+	url = git@maxnilz:maxnilz/api.git
